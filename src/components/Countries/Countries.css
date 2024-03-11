@@ -6,5 +6,7 @@
 
 .visited{
     background-color: aquamarine;
-    
+}
+.non-visited{
+    background-color: gray;
 }
